@@ -1,0 +1,4 @@
+Exp Nom: X
+Nom Enterprise: X
+Année de debut: x/x/x
+fin de contrat: x/x/x
